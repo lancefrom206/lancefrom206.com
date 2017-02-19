@@ -699,6 +699,11 @@
             },
             ".card-footer > small": {
               "color": "#000000"
+            },
+            ".mbr-section-subtitle": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "color": "#2969b0"
             }
           },
           "testimonial": [
